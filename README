@@ -1,0 +1,6 @@
+How to use Microsoft BI tools to analyze SQL Server performance. By aggregating minute to minute deltas that are easy to capture and impose little load upon your system, you can create an SSAS cube that will show you where your system CPU and Physical IO loads are. Sometimes those loads are hiding in brief bursts that are drowned out when looking at the hourly or daily reports. This system has provided me with at a glance smoking gun detection for over a decade
+
+
+http://www.slideboom.com/presentations/300782/Building-a-Performance-Data-Warehouse-for-SQL-CPU-%26-PIO
+
+http://www.linkedin.com/in/brianpaulflynn
